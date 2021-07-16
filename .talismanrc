@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: load-csv-mysql/create-table.sql
+  checksum: 04f2adf7565926056967455ef0714478a3ceecc377c57e37bbd50a3029caa51e
+- filename: load-csv-mysql/generate-sql.sh
+  checksum: 220fbb87752ac9aabd2479bfea980e197959ca06c52a6d44141cee7958fb1d57
