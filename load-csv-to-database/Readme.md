@@ -2,6 +2,9 @@
 
 This script is used for converting CSV file to a SQL Insert statement, that can be used to load the csv data into a database
 
+![Requirement](Requirement.png)
+
+
 ### Sample Data for Testing
  - Create table script to create the sample table for testing
     - [MySQL](create-table-mysql.sql)
